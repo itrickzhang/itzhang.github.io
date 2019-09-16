@@ -14,7 +14,7 @@ future: true
 
 # SNS settings
 RSS: true
-weibo_username:     itzhang
+weibo_username: itzhang
 
 
 # Build settings
